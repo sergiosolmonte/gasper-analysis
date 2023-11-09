@@ -1,0 +1,10 @@
+
+
+// probability of creating a block
+P=?[F<=T "someCreated"]
+
+// probability of finalizing
+P=?[F<=T "someFinalized"]
+
+// probability of justifing
+P=?[F<=T "someJustified"]
